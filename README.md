@@ -1,5 +1,5 @@
 # yolo-nas-pistol-detection
-yolo-nas-pistol-detection.ipynb
+yolo-nas-pistol-detection
 
 Downnload data fro here: https://drive.google.com/drive/folders/1qyCoCO4tI4JMfvYvlUOWQsDh6H_dt20s?usp=sharing
 
