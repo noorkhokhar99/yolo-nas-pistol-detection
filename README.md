@@ -6,5 +6,5 @@ Downnload data fro here: https://drive.google.com/drive/folders/1qyCoCO4tI4JMfvY
 
 # Watch the video
 
-[![Watch the video](https://github.com/noorkhokhar99/yolo-nas-pistol-detection/blob/main/Add%20a%20heading.png)]([https://youtu.be/mil6FF4XiOw))
+[![Watch the video](https://github.com/noorkhokhar99/yolo-nas-pistol-detection/blob/main/Add%20a%20heading.png)]([https://youtu.be/mil6FF4XiOw)
 
